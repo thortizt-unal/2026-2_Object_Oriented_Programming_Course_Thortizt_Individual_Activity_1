@@ -11,8 +11,6 @@
 
 <div align="center">
 
-<img src="logo_unal.png" width="180">
-
 # UNIVERSIDAD NACIONAL DE COLOMBIA
 ### SEDE MEDELLÍN
 
