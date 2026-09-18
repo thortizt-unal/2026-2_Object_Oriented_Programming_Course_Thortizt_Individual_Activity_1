@@ -1,4 +1,4 @@
-Programación Orientada a Objetos — Actividad 1
+Programación Orientada a Objetos - Taller Indiviual 1
 
 
 <img width="671" height="298" alt="images" src="https://github.com/user-attachments/assets/cfc91a23-970c-459f-b237-5595225e1d0a" />
