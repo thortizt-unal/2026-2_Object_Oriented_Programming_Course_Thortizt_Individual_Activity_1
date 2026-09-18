@@ -16,6 +16,7 @@
 
 ## Información
 
+| | |
 |---|---|
 | **Estudiante** | Thomas Ortiz Taborda |
 | **Programa** | Estadística |
