@@ -17,7 +17,6 @@
 ## Información
 
 | | |
-|---|---|
 | **Estudiante** | Thomas Ortiz Taborda |
 | **Programa** | Estadística |
 | **Docente** | Walter Hugo Arboleda Mazo |
