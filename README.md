@@ -1,12 +1,14 @@
+---
+
+<img width="671" height="298" alt="images" src="https://github.com/user-attachments/assets/cfc91a23-970c-459f-b237-5595225e1d0a" />
+
+---
+
 <div align="center">
 
 # UNIVERSIDAD NACIONAL DE COLOMBIA
 
 ### SEDE MEDELLÍN
-
-**PROGRAMA DE ESTADÍSTICA**
-
-<br>
 
 ## PROGRAMACIÓN ORIENTADA A OBJETOS
 
@@ -19,15 +21,6 @@
 ### EJERCICIOS DE PROGRAMACIÓN ORIENTADA A OBJETOS
 
 </div>
-
-
-</div>
-
----
-
-<img width="671" height="298" alt="images" src="https://github.com/user-attachments/assets/cfc91a23-970c-459f-b237-5595225e1d0a" />
-
----
 
 <h2 align="center">Información</h2>
 
@@ -48,29 +41,10 @@
 <h2 align="center">Descripción</h2>
 
 <p align="center">
-Este repositorio contiene los ejercicios correspondientes a la
-<b>Actividad 1 de Programación Orientada a Objetos</b>,
+Este repositorio contiene los ejercicios correspondientes al
+<b>Taller Individual 1 de Programación Orientada a Objetos</b>,
 desarrollados en Python utilizando clases, atributos, métodos e instancias.
 </p>
 
 ---
 
-<h2 align="center">Contenido</h2>
-
-<p align="center">
-Ejercicios de programación básica implementados mediante el enfoque
-de Programación Orientada a Objetos.
-</p>
-
-<div align="center">
-
-**Universidad Nacional de Colombia — Sede Medellín**  
-**Programa de Estadística · 2026-2S**
-
-</div>
-<div align="center">
-
-**Universidad Nacional de Colombia — Sede Medellín**  
-**Programa de Estadística · 2026-2S**
-
-</div>
